@@ -1,0 +1,34 @@
+Remova as Páginas e Componentes Não Necessários
+mantenha apenas as seguintes páginas no projeto final:
+Home 1
+
+About
+
+Contact US
+
+Courses List V4
+
+Course V6
+
+Course Cart
+
+Course Checkout
+
+Lesson Page 2
+
+Blog 3
+
+Blog Single
+
+Dashboard Completo
+
+Eventos 2
+
+Event Cart
+
+Event Checkout
+
+Dicas para limpeza:
+    Remova as rotas de páginas não listadas.
+    Exclua os componentes e arquivos das páginas não utilizadas.
+    Elimine as importações associadas nos arquivos onde estavam sendo utilizadas.
