@@ -32,3 +32,125 @@ Dicas para limpeza:
     Remova as rotas de páginas não listadas.
     Exclua os componentes e arquivos das páginas não utilizadas.
     Elimine as importações associadas nos arquivos onde estavam sendo utilizadas.
+#novo#
+
+na pagina , tem :
+
+Home:
+Home 1
+Home 2
+Home 3
+Home 4
+Home 5
+Home 6
+Home 7
+Home 8
+Home 9
+Home 10
+
+Courses:
+Course List Layouts
+Course List v1
+Course List v2
+Course List v3
+Course List v4
+Course List v5
+Course List v6
+Course List v7
+Course List v8
+Course Single Layouts
+Course Single v1
+Course Single v2
+Course Single v3
+Course Single v4
+Course Single v5
+Course Single v6
+Course Cart
+Course Checkout
+About Courses
+Lesson Page v1
+Lesson Page v2
+Instructors List v1
+Instructors List v2
+Instructors Single
+Become an Instructor
+Dashboard Pages
+Dashboard
+My Courses
+Bookmarks
+Add Listing
+Reviews
+Settings
+Administration
+Assignment
+Calendar
+Single Dashboard
+Dictionary
+Forums
+Grades
+Messages
+Participants
+Quiz
+Survey
+Popular Courses
+Web Developer
+Mobile Developer
+Digital Marketing
+Development
+Finance & Accounting
+Design
+View All Courses
+Join more than
+8 million learnersworldwide
+Start Learning For Free
+
+Events:
+Event List 1
+Event List 2
+Event Single
+Event Cart
+Event Checkout
+
+Blog:
+Blog List 1
+Blog List 2
+Blog List 3
+Blog Single
+
+Pages:
+About Us
+About 1
+About 2
+Contact
+Contact 1
+Contact 2
+Shop
+Shop Cart
+Shop Checkout
+Shop List
+Shop Order
+Shop Single
+Membership plans
+404 Page
+FAQs
+Help Center
+Login
+Register
+UI Elements
+
+Contact
+
+mude para:
+
+Home(link direto)
+Courses:
+    Course list(v4)
+    Course Single
+    Course Cart
+    Course Checkout
+Event:
+    Event List 2
+    Event Cart
+    Event Checkout
+Blog(link direto para Blog list 3)
+Contact
