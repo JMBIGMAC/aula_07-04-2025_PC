@@ -10,7 +10,7 @@ Este projeto inclui uma ampla gama de funcionalidades, como páginas de cursos, 
 
 ## Estrutura do Projeto
 
-### Páginas Principais
+### Páginas Mantidas
 - **Home 1**: Página inicial com design moderno e responsivo.
 - **About**: Página "Sobre Nós" para descrever a missão e visão da plataforma.
 - **Contact Us**: Página de contato com formulário funcional.
@@ -49,6 +49,7 @@ Este projeto inclui uma ampla gama de funcionalidades, como páginas de cursos, 
 - **SCSS**: Estilização modular e reutilizável.
 - **SwiperJS**: Slider responsivo para carrosséis.
 - **React Calendar**: Componente de calendário interativo.
+- **MUI (Material-UI)**: Biblioteca de componentes para estilização e design.
 
 ---
 
@@ -64,23 +65,24 @@ Este projeto inclui uma ampla gama de funcionalidades, como páginas de cursos, 
 
 ## Modificações Realizadas
 
-- Tradução completa do arquivo de dados (`/src/data/menu.js`) para português.
-- Ajustes nas dependências para garantir compatibilidade.
-- Manutenção e melhorias nas seguintes páginas:
-  - Home 1
-  - About
-  - Contact Us
-  - Courses List V4
-  - Course V6
-  - Course Cart
-  - Course Checkout
-  - Lesson Page 2
-  - Blog 3
-  - Blog Single
-  - Dashboard Completo
-  - Eventos 2
-  - Event Cart
-  - Event Checkout
+### Arquivos Modificados
+- **`/src/App.jsx`**: Removidas rotas de páginas não utilizadas e mantidas apenas as rotas das páginas listadas acima.
+- **`/src/components/cartsAndCheckout/CourseCart.jsx`**: Ajustes no componente para corrigir lógica e melhorar funcionalidade.
+- **`/src/components/aboutCourses/lesson/LessonItems.jsx`**: Melhorias no componente para otimizar o comportamento e corrigir bugs.
+
+### Arquivos Removidos
+- **Páginas e Componentes Não Necessários**:
+  - Home 2 a Home 10.
+  - Course List V1, V2, V3, V5, V6, V7, V8.
+  - Course Single V1, V2, V3, V4, V5.
+  - Lesson Page V1.
+  - Instructors List V1, V2, Instructors Single, Become an Instructor.
+  - Dashboard Pages não listadas (e.g., My Courses, Bookmarks, Add Listing, etc.).
+  - Event List 1, Event Single.
+  - Blog List 1, Blog List 2.
+  - About 2, Contact 2.
+  - Shop Pages (e.g., Shop Cart, Shop Checkout, Shop List, etc.).
+  - Membership Plans, 404 Page, FAQs, Help Center, Login, Register, UI Elements.
 
 ---
 
