@@ -6,7 +6,7 @@ export default function Typography() {
       <div className="row pt-60 lg:pt-40">
         <div className="col-12">
           <div className="text-18 lh-1 text-dark-1 fw-500 mb-30">
-            Typography
+            Tipografia
           </div>
 
           <div className="text-18 lh-1 text-dark-1 fw-500 mb-10">
@@ -16,7 +16,7 @@ export default function Typography() {
             Aliquam hendrerit sollicitudin purus, quis rutrum mi accumsan nec.
             Quisque bibendum orci ac nibh facilisis, at malesuada orci congue.
             Nullam tempus sollicitudin cursus. Ut et adipiscing erat. Curabitur
-            this is a text link libero tempus congue.
+            este é um link de texto libero tempus congue.
           </p>
           <p className="mt-20">
             Duis mattis laoreet neque, et ornare neque sollicitudin at. Proin

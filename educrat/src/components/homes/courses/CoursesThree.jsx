@@ -40,18 +40,18 @@ export default function CategoriesTwo() {
           <div className="col-lg-6">
             <div className="sectionTitle ">
               <h2 className="sectionTitle__title sm:text-20">
-                Our Most Popular Courses
+                Nossos Cursos Mais Populares
               </h2>
 
               <p className="sectionTitle__text ">
-                10,000+ unique online course list designs
+                Mais de 10.000 designs únicos de lista de cursos online
               </p>
             </div>
           </div>
 
           <div className="col-lg-auto">
             <div className="d-flex items-center">
-              <div className="text-dark-1">Filter By:</div>
+              <div className="text-dark-1">Filtrar Por:</div>
 
               <div className="d-flex flex-wrap x-gap-20 y-gap-20 items-center pl-15">
                 <div>

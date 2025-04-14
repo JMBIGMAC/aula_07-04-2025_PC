@@ -2,14 +2,14 @@ export const eventKeys = [
   {
     id: 1,
     color: "red",
-    text: "Hide site events",
+    text: "Ocultar eventos do site",
     icon: "eye",
     textColor: "text-orange-1",
   },
   {
     id: 2,
     color: "orange",
-    text: "Hide category events",
+    text: "Ocultar eventos da categoria",
     icon: "eye",
     textColor: "text-orange-6",
   },

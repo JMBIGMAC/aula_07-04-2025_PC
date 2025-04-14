@@ -28,11 +28,11 @@ export default function CoursesSeven() {
             <div className="col-lg-6">
               <div className="sectionTitle ">
                 <h2 className="sectionTitle__title ">
-                  Our Most Popular Courses
+                  Nossos Cursos Mais Populares
                 </h2>
 
                 <p className="sectionTitle__text ">
-                  10,000+ unique online course list designs
+                  Mais de 10.000 designs únicos de lista de cursos online
                 </p>
               </div>
             </div>

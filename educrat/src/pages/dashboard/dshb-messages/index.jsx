@@ -6,12 +6,13 @@ import HeaderDashboard from "@/components/layout/headers/HeaderDashboard";
 import React from "react";
 import MetaComponent from "@/components/common/MetaComponent";
 
+// Tradução do texto de exibição para português brasileiro
 const metadata = {
-  title:
-    "Dashboard-messages || Educrat - Professional LMS Online Education Course ReactJS Template",
+  title: "Mensagens do Painel || Educrat - Template Profissional de LMS para Cursos Online em ReactJS",
   description:
-    "Elevate your e-learning content with Educrat, the most impressive LMS template for online courses, education and LMS platforms.",
+    "Eleve seu conteúdo de e-learning com o Educrat, o template LMS mais impressionante para cursos online, educação e plataformas LMS.",
 };
+
 export default function DshbMessagesPage() {
   return (
     <div className="barba-container" data-barba="container">

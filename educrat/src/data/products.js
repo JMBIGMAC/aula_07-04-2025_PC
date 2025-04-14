@@ -74,20 +74,19 @@ export const productData = [
 ];
 
 export const tags = [
-  { id: 1, href: "#", name: "Courses" },
-  { id: 2, href: "#", name: "Learn" },
+  { id: 1, href: "#", name: "Cursos" },
+  { id: 2, href: "#", name: "Aprender" },
   { id: 3, href: "#", name: "Online" },
-  { id: 4, href: "#", name: "Education" },
+  { id: 4, href: "#", name: "Educação" },
   { id: 5, href: "#", name: "LMS" },
-  { id: 6, href: "#", name: "Training" },
+  { id: 6, href: "#", name: "Treinamento" },
 ];
 
 export const categories = [
-  { id: 1, href: "#", name: "Gym" },
-  { id: 2, href: "#", name: "High School" },
-  { id: 3, href: "#", name: "Primary" },
-  { id: 4, href: "#", name: "School" },
-  { id: 5, href: "#", name: "University" },
-  { id: 5, href: "#", name: "University" },
-  { id: 5, href: "#", name: "College" },
+  { id: 1, href: "#", name: "Academia" },
+  { id: 2, href: "#", name: "Ensino Médio" },
+  { id: 3, href: "#", name: "Ensino Fundamental" },
+  { id: 4, href: "#", name: "Escola" },
+  { id: 5, href: "#", name: "Universidade" },
+  { id: 6, href: "#", name: "Faculdade" },
 ];

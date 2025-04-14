@@ -22,10 +22,10 @@ export default function CoursesSix() {
         <div className="row y-gap-20 justify-between items-end">
           <div className="col-auto">
             <div className="sectionTitle ">
-              <h2 className="sectionTitle__title ">Explore Featured Courses</h2>
+              <h2 className="sectionTitle__title ">Explore Cursos em Destaque</h2>
 
               <p className="sectionTitle__text ">
-                10,000+ unique online course list designs
+                Mais de 10.000 designs únicos de lista de cursos online
               </p>
             </div>
           </div>

@@ -2,11 +2,13 @@ import React from "react";
 import CourceCard from "../courseCards/CourseCard";
 import { coursesData, catagories } from "../../../data/courses";
 import { useState, useEffect } from "react";
+
 export default function Courses() {
   const [filtered, setFiltered] = useState();
-  const [category, setCategory] = useState("All Categories");
+  const [category, setCategory] = useState("Todas as Categorias");
+
   useEffect(() => {
-    if (category == "All Categories") {
+    if (category == "Todas as Categorias") {
       setFiltered();
     } else {
       const filteredData = coursesData.filter(
@@ -22,16 +24,16 @@ export default function Courses() {
         <div className="col-auto">
           <div className="sectionTitle ">
             <h2 className="sectionTitle__title sm:text-24">
-              Our Most Popular Courses
+              Nossos Cursos Mais Populares
             </h2>
 
             <p className="sectionTitle__text ">
-              10,000+ unique online course list designs
+              Mais de 10.000 designs únicos de listas de cursos online
             </p>
           </div>
         </div>
       </div>
-      <div className="tabs__controls flex-wrap  pt-50 d-flex justify-center x-gap-10 js-tabs-controls">
+      <div className="tabs__controls flex-wrap pt-50 d-flex justify-center x-gap-10 js-tabs-controls">
         {catagories.map((elm, i) => (
           <div onClick={() => setCategory(elm)} key={i}>
             <button

@@ -31,14 +31,14 @@ export const alphabetItems = [
   {
     id: 1,
     key: "A",
-    title: `Accessibility`,
-    description: `The design of apps, devices, materials and environments that support and enable access to content and educational activities for all learners.`,
+    title: `Acessibilidade`,
+    description: `O design de aplicativos, dispositivos, materiais e ambientes que suportam e permitem o acesso ao conteúdo e atividades educacionais para todos os alunos.`,
   },
   {
     id: 2,
     key: "A",
-    title: `Artificial Intelligence`,
-    description: `The simulation of human intelligence in machines that are programmed to think and learn like humans.`,
+    title: `Inteligência Artificial`,
+    description: `A simulação da inteligência humana em máquinas programadas para pensar e aprender como humanos.`,
   },
   {
     id: 3,
@@ -232,13 +232,6 @@ export const alphabetItems = [
     title: `Questioning Skills`,
     description: `The ability to ask thoughtful and probing questions to deepen understanding, promote critical thinking, and stimulate discussion.`,
   },
-  {
-    id: 35,
-    key: "R",
-    title: `Remote Learning`,
-    description: `The delivery of education or training remotely, often through online platforms and virtual classrooms.`,
-  },
-
   {
     id: 35,
     key: "R",

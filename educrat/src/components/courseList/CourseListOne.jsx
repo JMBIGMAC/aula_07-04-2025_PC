@@ -192,12 +192,12 @@ export default function CourseListOne() {
             <div className="row">
               <div className="col-auto">
                 <div>
-                  <h1 className="page-header__title">User Interface Courses</h1>
+                  <h1 className="page-header__title">Cursos de Interface do Usuário</h1>
                 </div>
 
                 <div>
                   <p className="page-header__text">
-                    Write an introductory description of the category.
+                    Escreva uma descrição introdutória da categoria.
                   </p>
                 </div>
               </div>
@@ -255,7 +255,7 @@ export default function CourseListOne() {
                                 </div>
 
                                 <div className="sidebar-checkbox__title">
-                                  All
+                                  Todos
                                 </div>
                                 <div className="sidebar-checkbox__count"></div>
                               </div>
@@ -993,7 +993,7 @@ export default function CourseListOne() {
                                 </div>
 
                                 <div className="sidebar-checkbox__title">
-                                  All
+                                  Todos
                                 </div>
                                 <div className="sidebar-checkbox__count"></div>
                               </div>

@@ -26,13 +26,12 @@ export default function CourseCheckOut() {
             <div className="row justify-center text-center">
               <div className="col-auto">
                 <div>
-                  <h1 className="page-header__title">Course Checkout</h1>
+                  <h1 className="page-header__title">Finalizar Compra</h1>
                 </div>
 
                 <div>
                   <p className="page-header__text">
-                    We’re on a mission to deliver engaging, curated courses at a
-                    reasonable price.
+                    Estamos em uma missão de oferecer cursos envolventes e selecionados a um preço acessível.
                   </p>
                 </div>
               </div>
@@ -51,7 +50,7 @@ export default function CourseCheckOut() {
                   className="contact-form row x-gap-30 y-gap-30"
                 >
                   <div className="col-12">
-                    <h5 className="text-20">Billing details</h5>
+                    <h5 className="text-20">Detalhes de Cobrança</h5>
                   </div>
                   <div className="col-sm-6">
                     <label className="text-16 lh-1 fw-500 text-dark-1 mb-10">
@@ -256,7 +255,7 @@ export default function CourseCheckOut() {
                 </div>
 
                 <div className="py-30 px-30 bg-white mt-30 border-light rounded-8 bg-light-4">
-                  <h5 className="text-20 fw-500">Payment</h5>
+                  <h5 className="text-20 fw-500">Pagamento</h5>
 
                   <div className="mt-30">
                     <div className="form-radio d-flex items-center">
@@ -321,7 +320,7 @@ export default function CourseCheckOut() {
 
                 <div className="mt-30">
                   <button className="button -md -accent col-12 -uppercase text-white">
-                    Place order
+                    Fazer Pedido
                   </button>
                 </div>
               </div>

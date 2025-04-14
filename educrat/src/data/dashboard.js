@@ -1,28 +1,28 @@
 export const states = [
   {
     id: 1,
-    title: "Total Sales",
+    title: "Vendas Totais",
     value: 10800,
     new: 50,
     iconClass: "icon-coupon",
   },
   {
     id: 2,
-    title: "Total Courses",
+    title: "Cursos Totais",
     value: 3759,
     new: 40,
     iconClass: "icon-play-button",
   },
   {
     id: 3,
-    title: "Total Students",
+    title: "Estudantes Totais",
     value: 129786,
     new: 90,
     iconClass: "icon-graduate-cap",
   },
   {
     id: 4,
-    title: "Total Instructors",
+    title: "Instrutores Totais",
     value: 22786,
     new: 290,
     iconClass: "icon-online-learning",

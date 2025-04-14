@@ -5,7 +5,7 @@ import { faX } from "@fortawesome/free-solid-svg-icons";
 export default function MessageBoxes() {
   return (
     <div className="col-lg-6">
-      <div className="text-18 lh-1 text-dark-1 fw-500 mb-30">Message Boxes</div>
+      <div className="text-18 lh-1 text-dark-1 fw-500 mb-30">Caixas de Mensagem</div>
 
       <div className="row y-gap-20">
         {infoItems.map((elm, i) => (

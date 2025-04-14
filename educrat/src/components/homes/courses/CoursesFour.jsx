@@ -18,10 +18,10 @@ export default function CoursesFour() {
         <div className="row justify-center text-center">
           <div className="col-auto">
             <div className="sectionTitle ">
-              <h2 className="sectionTitle__title ">Our Most Popular Courses</h2>
+              <h2 className="sectionTitle__title ">Nossos Cursos Mais Populares</h2>
 
               <p className="sectionTitle__text ">
-                10,000+ unique online course list designs
+                Mais de 10.000 designs únicos de lista de cursos online
               </p>
             </div>
           </div>
@@ -87,7 +87,7 @@ export default function CoursesFour() {
               to="/courses-list-2"
               className="button -icon -purple-1 text-white"
             >
-              Browse All Courses
+              Navegar por Todos os Cursos
               <i className="icon-arrow-top-right text-13 ml-10"></i>
             </Link>
           </div>

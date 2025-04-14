@@ -42,12 +42,12 @@ export default function CourseDetailsSix({ id }) {
                 <div className="d-flex x-gap-15 y-gap-10 pb-20">
                   <div>
                     <div className="badge px-15 py-8 text-11 bg-green-1 text-dark-1 fw-400">
-                      BEST SELLER
+                      MAIS VENDIDO
                     </div>
                   </div>
                   <div>
                     <div className="badge px-15 py-8 text-11 bg-orange-1 text-white fw-400">
-                      NEW
+                      NOVO
                     </div>
                   </div>
                   <div>
@@ -64,8 +64,7 @@ export default function CourseDetailsSix({ id }) {
                 </div>
 
                 <p className="text-dark-3 mt-20">
-                  Use XD to get a job in UI Design, User Interface, User
-                  Experience design, UX design & Web Design
+                  Use o XD para conseguir um emprego em Design de Interface do Usuário, Experiência do Usuário, Design UX e Web Design
                 </p>
 
                 <div className="d-flex x-gap-30 y-gap-10 items-center flex-wrap pt-20">
@@ -84,13 +83,13 @@ export default function CourseDetailsSix({ id }) {
                   <div className="d-flex items-center text-dark-3">
                     <div className="icon icon-person-3 text-13"></div>
                     <div className="text-14 ml-8">
-                      853 enrolled on this course
+                       853 inscritos neste curso
                     </div>
                   </div>
 
                   <div className="d-flex items-center text-dark-3">
                     <div className="icon icon-wall-clock text-13"></div>
-                    <div className="text-14 ml-8">Last updated 11/2021</div>
+                    <div className="text-14 ml-8">Última atualização 11/2021</div>
                   </div>
                 </div>
 
@@ -110,7 +109,7 @@ export default function CourseDetailsSix({ id }) {
                   <div className="d-flex justify-between py-8 border-bottom-light-2">
                     <div className="d-flex items-center text-white">
                       <div className="icon-video-file"></div>
-                      <div className="ml-10">Lessons</div>
+                      <div className="ml-10">Aulas</div>
                     </div>
                     <div className="text-white">20</div>
                   </div>
@@ -126,41 +125,41 @@ export default function CourseDetailsSix({ id }) {
                   <div className="d-flex justify-between py-8 border-bottom-light-2">
                     <div className="d-flex items-center text-white">
                       <div className="icon-clock-2"></div>
-                      <div className="ml-10">Duration</div>
+                      <div className="ml-10">Duração</div>
                     </div>
-                    <div className="text-white">13 Hours</div>
+                    <div className="text-white">13 Horas</div>
                   </div>
 
                   <div className="d-flex justify-between py-8 border-bottom-light-2">
                     <div className="d-flex items-center text-white">
                       <div className="icon-bar-chart-2"></div>
-                      <div className="ml-10">Skill level</div>
+                      <div className="ml-10">Nível de habilidade</div>
                     </div>
-                    <div className="text-white">Beginner</div>
+                    <div className="text-white">Iniciante</div>
                   </div>
 
                   <div className="d-flex justify-between py-8 border-bottom-light-2">
                     <div className="d-flex items-center text-white">
                       <div className="icon-translate"></div>
-                      <div className="ml-10">Language</div>
+                      <div className="ml-10">Idioma</div>
                     </div>
-                    <div className="text-white">English</div>
+                    <div className="text-white">Inglês</div>
                   </div>
 
                   <div className="d-flex justify-between py-8 border-bottom-light-2">
                     <div className="d-flex items-center text-white">
                       <div className="icon-badge"></div>
-                      <div className="ml-10">Certificate</div>
+                      <div className="ml-10">Certificado</div>
                     </div>
-                    <div className="text-white">Yes</div>
+                    <div className="text-white">Sim</div>
                   </div>
 
                   <div className="d-flex justify-between py-8 border-bottom-light-2">
                     <div className="d-flex items-center text-white">
                       <div className="icon-infinity"></div>
-                      <div className="ml-10">Full lifetime access</div>
+                      <div className="ml-10">Acesso vitalício completo</div>
                     </div>
-                    <div className="text-white">Yes</div>
+                    <div className="text-white">Sim</div>
                   </div>
                 </div>
 
@@ -248,7 +247,7 @@ export default function CourseDetailsSix({ id }) {
                   </div>
 
                   <div className="text-14 lh-1 text-dark-3 mt-30">
-                    30-Day Money-Back Guarantee
+                    Garantia de devolução do dinheiro em 30 dias
                   </div>
                 </div>
               </div>

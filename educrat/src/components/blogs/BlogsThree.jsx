@@ -17,7 +17,7 @@ export default function BlogsThree() {
 
                 <div>
                   <p className="page-header__text">
-                    We’re on a mission to deliver engaging, curated courses at a
+                    Weeeehehehe’re on a mission to deliver engaging, curated courses at a
                     reasonable price.
                   </p>
                 </div>

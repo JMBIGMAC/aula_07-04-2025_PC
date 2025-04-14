@@ -39,16 +39,17 @@ export default function CoursesEight() {
         <div className="row y-gap-15 justify-center items-center">
           <div className="col-auto ">
             <div className="sectionTitle d-flex flex-column items-center justify-center mt-30">
-              <h2 className="sectionTitle__title ">Our Most Popular Courses</h2>
+              <h2 className="sectionTitle__title ">Nossos Cursos Mais Populares</h2>
 
               <p className="sectionTitle__text ">
-                10,000+ unique online course list designs
+                Mais de 10.000 designs únicos de lista de cursos online
               </p>
             </div>
           </div>
 
           <div className="d-flex items-center justify-center mt-40">
             <div className="d-flex flex-wrap x-gap-20 y-gap-20 justify-center items-center pl-15">
+              <div className="text-dark-1">Filtrar Por:</div>
               <div>
                 <div
                   className={`dropdown js-dropdown js-drop1-active ${

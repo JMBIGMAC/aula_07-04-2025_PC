@@ -186,7 +186,7 @@ export default function CourseListSix() {
       <div className="container">
         <div className="row">
           <div className="col-auto">
-            <h2 className="text-24 lh-12">All User Interface courses</h2>
+            <h2 className="text-24 lh-12">Todos os cursos de Interface do Usuário</h2>
           </div>
         </div>
 
@@ -236,7 +236,7 @@ export default function CourseListSix() {
                                 </div>
                               </div>
 
-                              <div className="sidebar-checkbox__title">All</div>
+                              <div className="sidebar-checkbox__title">Todos</div>
                               <div className="sidebar-checkbox__count"></div>
                             </div>
                             {categories.map((elm, i) => (
@@ -957,7 +957,7 @@ export default function CourseListSix() {
                                 </div>
                               </div>
 
-                              <div className="sidebar-checkbox__title">All</div>
+                              <div className="sidebar-checkbox__title">Todos</div>
                               <div className="sidebar-checkbox__count"></div>
                             </div>
                             {categories.map((item, index) => (

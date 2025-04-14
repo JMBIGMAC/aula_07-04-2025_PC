@@ -101,15 +101,14 @@ export const events = [
 ];
 
 export const categories = [
-  "All Categories",
-
-  "Animation",
+  "Todas as Categorias",
+  "Animação",
   "Design",
-  "Illustration",
-  "Lifestyle",
-  "Photo & Film",
-  "Business",
-  "Writing",
+  "Ilustração",
+  "Estilo de Vida",
+  "Foto & Filme",
+  "Negócios",
+  "Escrita",
 ];
 
 export const findEvent = [

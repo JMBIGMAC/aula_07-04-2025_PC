@@ -54,13 +54,12 @@ export default function CourseCart() {
             <div className="row justify-center text-center">
               <div className="col-auto">
                 <div>
-                  <h1 className="page-header__title">Course Cart</h1>
+                  <h1 className="page-header__title">Carrinho de Cursos</h1>
                 </div>
 
                 <div>
                   <p className="page-header__text">
-                    We’re on a mission to deliver engaging, curated courses at a
-                    reasonable price.
+                    Estamos em uma missão de oferecer cursos envolventes e selecionados a um preço acessível.
                   </p>
                 </div>
               </div>
@@ -76,20 +75,20 @@ export default function CourseCart() {
               <div className="px-30 pr-60 py-25 rounded-8 bg-light-6 md:d-none">
                 <div className="row justify-between">
                   <div className="col-md-4">
-                    <div className="fw-500 text-purple-1">Product</div>
+                    <div className="fw-500 text-purple-1">Produto</div>
                   </div>
                   <div className="col-md-2">
-                    <div className="fw-500 text-purple-1">Price</div>
+                    <div className="fw-500 text-purple-1">Preço</div>
                   </div>
                   <div className="col-md-2">
-                    <div className="fw-500 text-purple-1">Quantity</div>
+                    <div className="fw-500 text-purple-1">Quantidade</div>
                   </div>
                   <div className="col-md-2">
                     <div className="fw-500 text-purple-1">Subtotal</div>
                   </div>
                   <div className="col-md-1">
                     <div className="d-flex justify-end">
-                      <div className="fw-500 text-purple-1">Remove</div>
+                      <div className="fw-500 text-purple-1">Remover</div>
                     </div>
                   </div>
                 </div>
@@ -231,7 +230,7 @@ export default function CourseCart() {
 
             <div className="col-xl-4 col-lg-5 layout-pt-lg">
               <div className="py-30 bg-light-4 rounded-8 border-light">
-                <h5 className="px-30 text-20 fw-500">Cart Totals</h5>
+                <h5 className="px-30 text-20 fw-500">Totais do Carrinho</h5>
 
                 <div className="d-flex justify-between px-30 item mt-25">
                   <div className="py-15 fw-500 text-dark-1">Subtotal</div>
@@ -252,7 +251,7 @@ export default function CourseCart() {
                 to="/course-checkout"
                 className="button -md -purple-1 text-white col-12 mt-30"
               >
-                Proceed to checkout
+                Finalizar Compra
               </Link>
             </div>
           </div>

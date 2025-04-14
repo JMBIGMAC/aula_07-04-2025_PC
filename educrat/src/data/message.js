@@ -1,13 +1,13 @@
 export const accordionItems = [
   {
     id: 1,
-    title: "Starred",
+    title: "Favoritos",
     content: [
       {
         id: 2,
         name: "Darlene Robertson",
-        message: "Hello",
-        time: "35 mins",
+        message: "Olá",
+        time: "35 minutos",
         imageSrc: "/assets/img/dashboard/right-sidebar/messages/1.png",
       },
       {
@@ -22,7 +22,7 @@ export const accordionItems = [
   },
   {
     id: 2,
-    title: "Group",
+    title: "Grupo",
     content: [
       {
         id: 1,
@@ -50,7 +50,7 @@ export const accordionItems = [
   },
   {
     id: 3,
-    title: "Private",
+    title: "Privado",
     content: [
       {
         id: 1,

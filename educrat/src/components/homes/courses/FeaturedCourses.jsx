@@ -14,11 +14,10 @@ export default function FeaturedCourses() {
         >
           <div className="col-xl-3 col-lg-4">
             <div className="sectionTitle -light">
-              <h2 className="sectionTitle__title ">Featured Courses</h2>
+              <h2 className="sectionTitle__title ">Cursos em Destaque</h2>
 
               <p className="sectionTitle__text ">
-                Hand-picked Instructor and expertly crafted courses, designed
-                for the modern students and entrepreneur.
+                Instrutores selecionados e cursos elaborados com expertise, projetados para estudantes e empreendedores modernos.
               </p>
             </div>
 
@@ -27,7 +26,7 @@ export default function FeaturedCourses() {
                 to="/courses-list-2"
                 className="button -icon -purple-1 text-white"
               >
-                Browse All Courses
+                Navegar por Todos os Cursos
                 <i className="icon-arrow-top-right text-13 ml-10"></i>
               </Link>
             </div>

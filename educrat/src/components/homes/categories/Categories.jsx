@@ -21,10 +21,10 @@ const CategoriesHomeOne = () => {
           <div className="row justify-center text-center">
             <div className="col-auto">
               <div className="sectionTitle ">
-                <h2 className="sectionTitle__title ">Top Categories</h2>
+                <h2 className="sectionTitle__title ">Principais Categorias</h2>
 
                 <p className="sectionTitle__text ">
-                  Lorem ipsum dolor sit amet, consectetur.
+                  Explore as categorias mais populares.
                 </p>
               </div>
             </div>
@@ -72,7 +72,7 @@ const CategoriesHomeOne = () => {
                     >
                       <div className="featureCard__content">
                         <div className="featureCard__icon">
-                          <img src={item.iconSrc} alt="icon" />
+                          <img src={item.iconSrc} alt="ícone" />
                         </div>
                         <div className="featureCard__title">
                           {item.title.split(" ")[0]} <br />

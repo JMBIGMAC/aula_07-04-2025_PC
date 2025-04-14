@@ -327,7 +327,7 @@ export default function CourseListSeven() {
                               </div>
                             </div>
 
-                            <div className="sidebar-checkbox__title">All</div>
+                            <div className="sidebar-checkbox__title">Todos</div>
                             <div className="sidebar-checkbox__count"></div>
                           </div>
                           {categories.map((item, index) => (

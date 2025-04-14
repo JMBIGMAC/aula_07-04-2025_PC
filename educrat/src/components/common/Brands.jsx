@@ -12,7 +12,7 @@ const Brands = ({ backgroundColorComponent, brandsTwo }) => {
         <div className="container">
           <div className="row justify-center">
             <div className="col text-center">
-              <p className="text-lg text-dark-1">Trusted by the world’s best</p>
+              <p className="text-lg text-dark-1">Confiado pelos melhores do mundo</p>
             </div>
           </div>
           <div
@@ -29,7 +29,7 @@ const Brands = ({ backgroundColorComponent, brandsTwo }) => {
                   <img
                     className="w-1/1"
                     src={logo && logo}
-                    alt="clients image"
+                    alt="imagem de clientes"
                     style={{ objectFit: "contain" }}
                   />
                 </div>
