@@ -64,7 +64,7 @@ export default function CourseDetailsSix({ id }) {
                 </div>
 
                 <p className="text-dark-3 mt-20">
-                  Use o XD para conseguir um emprego em Design de Interface do Usuário, Experiência do Usuário, Design UX e Web Design
+                desenvolver desde tarefas simples como aplicações na linha de comando ou web, até sistemas complexos de tempo real
                 </p>
 
                 <div className="d-flex x-gap-30 y-gap-10 items-center flex-wrap pt-20">
