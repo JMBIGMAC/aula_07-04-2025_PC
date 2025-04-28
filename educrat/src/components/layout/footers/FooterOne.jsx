@@ -38,14 +38,14 @@ export default function FooterOne() {
 
             <div className="col-xl-4 col-lg-4 col-md-6">
               <div className="text-17 fw-500 text-white uppercase mb-25">
-                ENTRE EM CONTATO
+                CHAMA-NOS NO PV (⌐■_■)
               </div>
               <div className="footer-columns-form">
-                <div>Não enviamos spam, pode ficar tranquilo.</div>
+                <div>Não enviamos spam... ainda.</div>
                 <form onSubmit={handleSubmit}>
                   <div className="form-group">
                     <input required type="text" placeholder="Email..." />
-                    <button type="submit">Enviar</button>
+                    <button type="submit">Mandar</button>
                   </div>
                 </form>
               </div>
