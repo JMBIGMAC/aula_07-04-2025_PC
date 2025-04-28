@@ -4861,7 +4861,8 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 575px) {
   .header.-base-sidebar .header__logo img {
-    width: 10%;
+    width: 80%;
+    height: auto;
   }
 }
 
